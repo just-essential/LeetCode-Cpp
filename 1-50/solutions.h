@@ -265,9 +265,9 @@ using namespace std;
 //#include "49. Group Anagrams.cpp"
 //
 //}
-//namespace p50 {
-//
-//#include "50. Pow(x, n).cpp"
-//
-//}
+namespace p50 {
+
+#include "50. Pow(x, n).cpp"
+
+}
 #endif //INC_1_50_SOLUTIONS_H

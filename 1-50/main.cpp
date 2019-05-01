@@ -50,6 +50,6 @@ int main() {
 //    p47::Solution{}.test();
 //    p48::Solution{}.test();
 //    p49::Solution{}.test();
-//    p50::Solution{}.test();
+    p50::Solution{}.test();
     return 0;
 }
