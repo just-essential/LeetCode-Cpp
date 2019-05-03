@@ -12,19 +12,24 @@
 
 using namespace std;
 
-namespace p51 {
+//namespace p51 {
+//
+//#include "51. N-Queens.cpp"
+//
+//}
+//namespace p52 {
+//
+//#include "52. N-Queens II.cpp"
+//
+//}
+//namespace p53 {
+//
+//#include "53. Maximum Subarray.cpp"
+//
+//}
+namespace p54 {
 
-#include "51. N-Queens.cpp"
-
-}
-namespace p52 {
-
-#include "52. N-Queens II.cpp"
-
-}
-namespace p53 {
-
-#include "53. Maximum Subarray.cpp"
+#include "54. Spiral Matrix.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
