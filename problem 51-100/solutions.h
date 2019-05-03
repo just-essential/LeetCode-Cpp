@@ -22,4 +22,9 @@ namespace p52 {
 #include "52. N-Queens II.cpp"
 
 }
+namespace p53 {
+
+#include "53. Maximum Subarray.cpp"
+
+}
 #endif //PROBLEM_51_100_SOLUTIONS_H
