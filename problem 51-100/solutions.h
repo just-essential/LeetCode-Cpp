@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <algorithm>
 #include <stack>
 #include <map>
 #include <unordered_map>
@@ -32,9 +33,14 @@ using namespace std;
 //#include "54. Spiral Matrix.cpp"
 //
 //}
-namespace p55 {
+//namespace p55 {
+//
+//#include "55. Jump Game.cpp"
+//
+//}
+namespace p56 {
 
-#include "55. Jump Game.cpp"
+#include "56. Merge Intervals.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
