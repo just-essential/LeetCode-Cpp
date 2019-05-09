@@ -10,6 +10,7 @@
 #include <unordered_map>
 #include <functional>
 #include <cassert>
+#include "linked_list.h"
 
 using namespace std;
 
@@ -58,9 +59,14 @@ using namespace std;
 //#include "59. Spiral Matrix II.cpp"
 //
 //}
-namespace p60 {
+//namespace p60 {
+//
+//#include "60. Permutation Sequence.cpp"
+//
+//}
+namespace p61 {
 
-#include "60. Permutation Sequence.cpp"
+#include "61. Rotate List.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
