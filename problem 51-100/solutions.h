@@ -53,9 +53,14 @@ using namespace std;
 //#include "58. Length of Last Word.cpp"
 //
 //}
-namespace p59 {
+//namespace p59 {
+//
+//#include "59. Spiral Matrix II.cpp"
+//
+//}
+namespace p60 {
 
-#include "59. Spiral Matrix II.cpp"
+#include "60. Permutation Sequence.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
