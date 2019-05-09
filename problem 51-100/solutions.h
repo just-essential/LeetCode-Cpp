@@ -48,4 +48,9 @@ namespace p57 {
 #include "57. Insert Interval.cpp"
 
 }
+namespace p58 {
+
+#include "58. Length of Last Word.cpp"
+
+}
 #endif //PROBLEM_51_100_SOLUTIONS_H

@@ -6,5 +6,6 @@ int main() {
 //    p54::Solution{}.test();
 //    p55::Solution{}.test();
 //    p56::Solution{}.test();
-    p57::Solution{}.test();
+//    p57::Solution{}.test();
+    p58::Solution{}.test();
 }
