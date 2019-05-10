@@ -64,9 +64,14 @@ using namespace std;
 //#include "60. Permutation Sequence.cpp"
 //
 //}
-namespace p61 {
+//namespace p61 {
+//
+//#include "61. Rotate List.cpp"
+//
+//}
+namespace p62 {
 
-#include "61. Rotate List.cpp"
+#include "62. Unique Paths.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
