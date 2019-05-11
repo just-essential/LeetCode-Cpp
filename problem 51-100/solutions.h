@@ -89,9 +89,14 @@ using namespace std;
 //#include "65. Valid Number.cpp"
 //
 //}
-namespace p66 {
+//namespace p66 {
+//
+//#include "66. Plus One.cpp"
+//
+//}
+namespace p67 {
 
-#include "66. Plus One.cpp"
+#include "67. Add Binary.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
