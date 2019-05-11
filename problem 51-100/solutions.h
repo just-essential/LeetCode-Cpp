@@ -84,9 +84,14 @@ using namespace std;
 //#include "64. Minimum Path Sum.cpp"
 //
 //}
-namespace p65 {
+//namespace p65 {
+//
+//#include "65. Valid Number.cpp"
+//
+//}
+namespace p66 {
 
-#include "65. Valid Number.cpp"
+#include "66. Plus One.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
