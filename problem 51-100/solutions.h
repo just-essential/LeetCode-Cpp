@@ -74,9 +74,14 @@ using namespace std;
 //#include "62. Unique Paths.cpp"
 //
 //}
-namespace p63 {
+//namespace p63 {
+//
+//#include "63. Unique Paths II.cpp"
+//
+//}
+namespace p64 {
 
-#include "63. Unique Paths II.cpp"
+#include "64. Minimum Path Sum.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
