@@ -99,9 +99,14 @@ using namespace std;
 //#include "67. Add Binary.cpp"
 //
 //}
-namespace p68 {
+//namespace p68 {
+//
+//#include "68. Text Justification.cpp"
+//
+//}
+namespace p69 {
 
-#include "68. Text Justification.cpp"
+#include "69. Sqrt(x).cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
