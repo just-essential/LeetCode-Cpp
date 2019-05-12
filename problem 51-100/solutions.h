@@ -104,9 +104,14 @@ using namespace std;
 //#include "68. Text Justification.cpp"
 //
 //}
-namespace p69 {
+//namespace p69 {
+//
+//#include "69. Sqrt(x).cpp"
+//
+//}
+namespace p70 {
 
-#include "69. Sqrt(x).cpp"
+#include "70. Climbing Stairs.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
