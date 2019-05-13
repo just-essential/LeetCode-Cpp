@@ -109,9 +109,14 @@ using namespace std;
 //#include "69. Sqrt(x).cpp"
 //
 //}
-namespace p70 {
+//namespace p70 {
+//
+//#include "70. Climbing Stairs.cpp"
+//
+//}
+namespace p71 {
 
-#include "70. Climbing Stairs.cpp"
+#include "71. Simplify Path.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
