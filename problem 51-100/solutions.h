@@ -114,9 +114,14 @@ using namespace std;
 //#include "70. Climbing Stairs.cpp"
 //
 //}
-namespace p71 {
+//namespace p71 {
+//
+//#include "71. Simplify Path.cpp"
+//
+//}
+namespace p72 {
 
-#include "71. Simplify Path.cpp"
+#include "72. Edit Distance.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
