@@ -139,9 +139,14 @@ using namespace std;
 //#include "75. Sort Colors.cpp"
 //
 //}
-namespace p76 {
+//namespace p76 {
+//
+//#include "76. Minimum Window Substring.cpp"
+//
+//}
+namespace p77 {
 
-#include "76. Minimum Window Substring.cpp"
+#include "77. Combinations.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
