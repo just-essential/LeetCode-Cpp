@@ -144,9 +144,14 @@ using namespace std;
 //#include "76. Minimum Window Substring.cpp"
 //
 //}
-namespace p77 {
+//namespace p77 {
+//
+//#include "77. Combinations.cpp"
+//
+//}
+namespace p78 {
 
-#include "77. Combinations.cpp"
+#include "78. Subsets.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
