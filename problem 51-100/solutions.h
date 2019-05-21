@@ -134,9 +134,14 @@ using namespace std;
 //#include "74. Search a 2D Matrix.cpp"
 //
 //}
-namespace p75 {
+//namespace p75 {
+//
+//#include "75. Sort Colors.cpp"
+//
+//}
+namespace p76 {
 
-#include "75. Sort Colors.cpp"
+#include "76. Minimum Window Substring.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
