@@ -149,9 +149,14 @@ using namespace std;
 //#include "77. Combinations.cpp"
 //
 //}
-namespace p78 {
+//namespace p78 {
+//
+//#include "78. Subsets.cpp"
+//
+//}
+namespace p79 {
 
-#include "78. Subsets.cpp"
+#include "79. Word Search.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
