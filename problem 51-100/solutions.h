@@ -164,9 +164,14 @@ using namespace std;
 //#include "80. Remove Duplicates from Sorted Array II.cpp"
 //
 //}
-namespace p81 {
+//namespace p81 {
+//
+//#include "81. Search in Rotated Sorted Array II.cpp"
+//
+//}
+namespace p82 {
 
-#include "81. Search in Rotated Sorted Array II.cpp"
+#include "82. Remove Duplicates from Sorted List II.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
