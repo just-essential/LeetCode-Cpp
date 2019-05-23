@@ -28,30 +28,55 @@ Of course, the context of these characters also matters in the input.
 Update (2015-02-10):
 The signature of the C++ function had been updated. If you still see your function signature accepts a const char * argument, please click the reload button to reset your code definition.
 */
+
+enum State {
+    Nil, Sign, Integer, Dot, Decimal, Euler, ExpSign, Exponent
+};
+
 class Solution {
 public:
     bool isNumber(string s) {
         int l = s.length(), i = 0;
         while (i < l && s[i] == ' ') i++;
-        if (s[i] == '-' || s[i] == '+') i++;
-        if (i < l && s[i] >= '0' && s[i] <= '9') {
+        while (l > 0 && s[l - 1] == ' ') l--;
+        State state = Nil;
+        bool leadingNumber = false;
+        while (i < l) {
+            if (s[i] >= '0' && s[i] <= '9') {
+                leadingNumber = true;
+                if (state <= Integer) {
+                    state = Integer;
+                } else if (state <= Decimal) {
+                    state = Decimal;
+                } else {
+                    state = Exponent;
+                }
+            } else if (s[i] == '+' || s[i] == '-') {
+                if (state == Nil) {
+                    state = Sign;
+                } else if (state == Euler) {
+                    state = ExpSign;
+                } else {
+                    return false;
+                }
+            } else if (s[i] == '.') {
+                if (state < Dot) {
+                    state = Dot;
+                } else {
+                    return false;
+                }
+            } else if (s[i] == 'e') {
+                if (leadingNumber && (state <= Decimal)) {
+                    state = Euler;
+                } else {
+                    return false;
+                }
+            } else {
+                return false;
+            }
             i++;
-            while (i < l && s[i] >= '0' && s[i] <= '9') i++;
-        } else if (s[i] != '.') return false;
-        if (i < l && s[i] == '.') {
-            i++;
-            while (i < l && s[i] >= '0' && s[i] <= '9') i++;
         }
-        if (i < l && s[i] == 'e') {
-            i++;
-            if (s[i] == '-' || s[i] == '+') i++;
-            if (i < l && s[i] >= '0' && s[i] <= '9') {
-                i++;
-                while (i < l && s[i] >= '0' && s[i] <= '9') i++;
-            } else return false;
-        }
-        while (i < l && s[i] == ' ') i++;
-        return i == l;
+        return state == Integer || (leadingNumber && state == Dot) || state == Decimal || state == Exponent;
     }
 
     void test() {
