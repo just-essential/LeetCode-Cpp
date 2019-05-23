@@ -84,11 +84,11 @@ using namespace std;
 //#include "64. Minimum Path Sum.cpp"
 //
 //}
-namespace p65 {
-
-#include "65. Valid Number.cpp"
-
-}
+//namespace p65 {
+//
+//#include "65. Valid Number.cpp"
+//
+//}
 //namespace p66 {
 //
 //#include "66. Plus One.cpp"
@@ -189,4 +189,9 @@ namespace p65 {
 //#include "85. Maximal Rectangle.cpp"
 //
 //}
+namespace p86 {
+
+#include "86. Partition List.cpp"
+
+}
 #endif //PROBLEM_51_100_SOLUTIONS_H
