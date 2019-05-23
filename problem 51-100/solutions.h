@@ -179,9 +179,14 @@ using namespace std;
 //#include "83. Remove Duplicates from Sorted List.cpp"
 //
 //}
-namespace p84 {
+//namespace p84 {
+//
+//#include "84. Largest Rectangle in Histogram.cpp"
+//
+//}
+namespace p85 {
 
-#include "84. Largest Rectangle in Histogram.cpp"
+#include "85. Maximal Rectangle.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
