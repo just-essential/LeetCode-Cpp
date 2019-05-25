@@ -194,9 +194,14 @@ using namespace std;
 //#include "86. Partition List.cpp"
 //
 //}
-namespace p87 {
+//namespace p87 {
+//
+//#include "87. Scramble String.cpp"
+//
+//}
+namespace p88 {
 
-#include "87. Scramble String.cpp"
+#include "88. Merge Sorted Array.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
