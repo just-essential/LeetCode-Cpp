@@ -189,9 +189,14 @@ using namespace std;
 //#include "85. Maximal Rectangle.cpp"
 //
 //}
-namespace p86 {
+//namespace p86 {
+//
+//#include "86. Partition List.cpp"
+//
+//}
+namespace p87 {
 
-#include "86. Partition List.cpp"
+#include "87. Scramble String.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
