@@ -37,5 +37,6 @@ int main() {
 //    p85::Solution{}.test();
 //    p86::Solution{}.test();
 //    p87::Solution{}.test();
-    p88::Solution{}.test();
+//    p88::Solution{}.test();
+    p89::Solution{}.test();
 }
