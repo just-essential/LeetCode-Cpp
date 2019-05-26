@@ -43,5 +43,6 @@ int main() {
 //    p91::Solution{}.test();
 //    p92::Solution{}.test();
 //    p93::Solution{}.test();
-    p94::Solution{}.test();
+//    p94::Solution{}.test();
+    p95::Solution{}.test();
 }
