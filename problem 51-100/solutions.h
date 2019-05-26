@@ -11,6 +11,7 @@
 #include <functional>
 #include <cassert>
 #include "linked_list.h"
+#include "tree.h"
 
 using namespace std;
 
@@ -224,9 +225,14 @@ using namespace std;
 //#include "92. Reverse Linked List II.cpp"
 //
 //}
-namespace p93 {
+//namespace p93 {
+//
+//#include "93. Restore IP Addresses.cpp"
+//
+//}
+namespace p94 {
 
-#include "93. Restore IP Addresses.cpp"
+#include "94. Binary Tree Inorder Traversal.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
