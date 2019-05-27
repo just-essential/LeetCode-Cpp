@@ -235,9 +235,14 @@ using namespace std;
 //#include "94. Binary Tree Inorder Traversal.cpp"
 //
 //}
-namespace p95 {
+//namespace p95 {
+//
+//#include "95. Unique Binary Search Trees II.cpp"
+//
+//}
+namespace p96 {
 
-#include "95. Unique Binary Search Trees II.cpp"
+#include "96. Unique Binary Search Trees.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
