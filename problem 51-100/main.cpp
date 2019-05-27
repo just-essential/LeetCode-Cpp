@@ -48,5 +48,6 @@ int main() {
 //    p96::Solution{}.test();
 //    p97::Solution{}.test();
 //    p98::Solution{}.test();
-    p99::Solution{}.test();
+//    p99::Solution{}.test();
+    p100::Solution{}.test();
 }
