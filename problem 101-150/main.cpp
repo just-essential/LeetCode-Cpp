@@ -5,6 +5,7 @@ int main() {
 //    p102::Solution{}.test();
 //    p103::Solution{}.test();
 //    p104::Solution{}.test();
-    p105::Solution{}.test();
+//    p105::Solution{}.test();
+    p106::Solution{}.test();
     return 0;
 }

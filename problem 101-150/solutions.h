@@ -36,9 +36,14 @@ using namespace std;
 //#include "104. Maximum Depth of Binary Tree.cpp"
 //
 //}
-namespace p105 {
+//namespace p105 {
+//
+//#include "105. Construct Binary Tree from Preorder and Inorder Traversal.cpp"
+//
+//}
+namespace p106 {
 
-#include "105. Construct Binary Tree from Preorder and Inorder Traversal.cpp"
+#include "106. Construct Binary Tree from Inorder and Postorder Traversal.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
