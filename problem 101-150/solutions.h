@@ -7,8 +7,15 @@
 
 #include <iostream>
 #include <vector>
+#include <cassert>
+#include <functional>
 #include "linked_list.h"
 #include "tree.h"
 
 using namespace std;
+namespace p101 {
+
+#include "101. Symmetric Tree.cpp"
+
+}
 #endif //PROBLEM_51_100_SOLUTIONS_H
