@@ -1,6 +1,7 @@
 #include "solutions.h"
 
 int main() {
-    p101::Solution{}.test();
+//    p101::Solution{}.test();
+    p102::Solution{}.test();
     return 0;
 }
