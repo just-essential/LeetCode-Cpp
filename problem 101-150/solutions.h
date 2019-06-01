@@ -66,9 +66,14 @@ using namespace std;
 //#include "110. Balanced Binary Tree.cpp"
 //
 //}
-namespace p111 {
+//namespace p111 {
+//
+//#include "111. Minimum Depth of Binary Tree.cpp"
+//
+//}
+namespace p112 {
 
-#include "111. Minimum Depth of Binary Tree.cpp"
+#include "112. Path Sum.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H

@@ -11,6 +11,7 @@ int main() {
 //    p108::Solution{}.test();
 //    p109::Solution{}.test();
 //    p110::Solution{}.test();
-    p111::Solution{}.test();
+//    p111::Solution{}.test();
+    p112::Solution{}.test();
     return 0;
 }
