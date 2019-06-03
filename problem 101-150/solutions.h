@@ -81,9 +81,14 @@ using namespace std;
 //#include "113. Path Sum II.cpp"
 //
 //}
-namespace p114 {
+//namespace p114 {
+//
+//#include "114. Flatten Binary Tree to Linked List.cpp"
+//
+//}
+namespace p115 {
 
-#include "114. Flatten Binary Tree to Linked List.cpp"
+#include "115. Distinct Subsequences.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
