@@ -86,9 +86,14 @@ using namespace std;
 //#include "114. Flatten Binary Tree to Linked List.cpp"
 //
 //}
-namespace p115 {
+//namespace p115 {
+//
+//#include "115. Distinct Subsequences.cpp"
+//
+//}
+namespace p116 {
 
-#include "115. Distinct Subsequences.cpp"
+#include "116. Populating Next Right Pointers in Each Node.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
