@@ -96,9 +96,14 @@ using namespace std;
 //#include "116. Populating Next Right Pointers in Each Node.cpp"
 //
 //}
-namespace p117 {
+//namespace p117 {
+//
+//#include "117. Populating Next Right Pointers in Each Node II.cpp"
+//
+//}
+namespace p118 {
 
-#include "117. Populating Next Right Pointers in Each Node II.cpp"
+#include "118. Pascal's Triangle.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
