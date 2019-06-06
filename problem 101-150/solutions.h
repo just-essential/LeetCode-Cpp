@@ -106,9 +106,14 @@ using namespace std;
 //#include "118. Pascal's Triangle.cpp"
 //
 //}
-namespace p119 {
+//namespace p119 {
+//
+//#include "119. Pascal's Triangle II.cpp"
+//
+//}
+namespace p120 {
 
-#include "119. Pascal's Triangle II.cpp"
+#include "120. Triangle.cpp"
 
 }
 #endif //PROBLEM_51_100_SOLUTIONS_H
