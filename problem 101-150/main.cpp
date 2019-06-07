@@ -21,6 +21,7 @@ int main() {
 //    p120::Solution{}.test();
 //    p121::Solution{}.test();
 //    p122::Solution{}.test();
-    p123::Solution{}.test();
+//    p123::Solution{}.test();
+    p124::Solution{}.test();
     return 0;
 }
